@@ -45,7 +45,8 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 ## Certifications
-<a href="https://coursera.org/share/211a3c2497e3243f17bc1c1e26f6275a" target="_blank">
+    
+<a href="https://coursera.org/share/211a3c2497e3243f17bc1c1e26f6275a">
     <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certification"/>
 </a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
