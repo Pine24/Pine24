@@ -42,7 +42,7 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 ## Certifications
 <div>
 <a href="https://coursera.org/share/211a3c2497e3243f17bc1c1e26f6275a">
-    <img src="https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certification"/>
+    <img src="https://img.shields.io/badge/Coursera%20Splunk%20Search%20Expert%20101-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certification"/>
 </a>
 <a href="https://lpi.org/v/LPI000608190/rr5hh3399p" target="_blank">
     <img src="https://img.shields.io/badge/Linux%20Professional%20Institute-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Professional Institute Certification"/>
