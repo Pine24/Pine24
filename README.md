@@ -24,6 +24,8 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PacketTracer-155A9E?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### Endpoint
