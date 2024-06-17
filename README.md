@@ -36,7 +36,6 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
        <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
        <img src="https://img.shields.io/badge/-QRadar-062C54?&style=for-the-badge&logo=QRadar&logoColor=white" />
 </div>
