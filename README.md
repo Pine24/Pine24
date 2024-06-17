@@ -37,8 +37,8 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+       <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+       <img src="https://img.shields.io/badge/-QRadar-062C54?&style=for-the-badge&logo=QRadar&logoColor=white" />
 </div>
 
 ## Certifications
@@ -49,9 +49,6 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 <a href="https://lpi.org/v/LPI000608190/rr5hh3399p" target="_blank">
     <img src="https://img.shields.io/badge/Linux%20Professional%20Institute-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Professional Institute Certification"/>
 </a>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
