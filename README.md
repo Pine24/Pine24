@@ -44,7 +44,6 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-[![Splunk Knowledge Manager 101](https://via.placeholder.com/150x50.png?text=Splunk+Knowledge+Manager+101)](https://coursera.org/share/211a3c2497e3243f17bc1c1e26f6275a)
 <img src=https://img.shields.io/badge/Coursera-blue?style=for-the-badge&logo=https://example.com/coursera-logo.png&logoColor=white)]<a href="https://coursera.org/share/211a3c2497e3243f17bc1c1e26f6275a"/> />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
