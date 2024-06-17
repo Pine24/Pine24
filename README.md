@@ -1,5 +1,5 @@
 # Hello, I'm Oren
-<a href="[https://linkedin.com](https://www.linkedin.com/in/oren-s-930723244/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/oren-s-930723244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am about to graduate from ITQ college with a profound interest in technology and the world of cyber security, fascinated by the field and eager to learn more and expand my horizons.
 
