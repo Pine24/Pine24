@@ -11,7 +11,7 @@ I'm new to this field of cyber security but nonetheless I am extremely motivated
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Shell Scripting                                | <a href="https://google.com">Simple Vulnerability Scanner</a>|
+|Shell Scripting                                | <a href="https://https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>|
 |-----------------------------------------------|-------------------|
 |-----------------------------------------------|-------------------|
 | ------------------------------------------------------------------|
