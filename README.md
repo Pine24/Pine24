@@ -5,7 +5,9 @@ I am about to graduate from ITQ college with a profound interest in technology a
 
 ## Objective
 
-I'm new to this field of cyber security but nonetheless I am extremely motivated and eager to learn more, as such I'm aiming to start my way in Security Operations Center (SOC) as a Tier1 Analyst and climb my way up as fast as possible. 
+I am a person who is extremely motivated and eager to learn more, and as such I'm aiming to start my way in Security Operations Center (SOC) as a Tier1 Analyst and climb my way up as fast as possible, 
+while ganinig new skills and improving my understanding of this vast field.
+My goal is to become a person that others can rely on and feel more motivated around.
 
 ## Skills
 
