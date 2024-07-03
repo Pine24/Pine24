@@ -14,6 +14,7 @@ My goal is to become a person that others can rely on and feel more motivated ar
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Shell Scripting                                | <a href="https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>|
+|                                               | <a href="https://github.com/Pine24/PT-project-vulnerability">Simple PT project</a>|
 |-----------------------------------------------|-------------------|
 |-----------------------------------------------|-------------------|
 | ------------------------------------------------------------------|
@@ -53,4 +54,4 @@ My goal is to become a person that others can rely on and feel more motivated ar
 
 ## Projects
 - <a href="https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>
-- SOC Automation Project
+- <a href="https://github.com/Pine24/PT-project-vulnerability">Simple PT project</a>
