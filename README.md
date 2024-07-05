@@ -49,3 +49,4 @@ My goal is to become a person that others can rely on and feel more motivated ar
 ## Projects
 - <a href="https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>
 - <a href="https://github.com/Pine24/PT-project-vulnerability">Simple PT project</a>
+- <a>Connecting Fortigate and windows domain to Splunk SOAR and writing simple Automation playbooks</a>
