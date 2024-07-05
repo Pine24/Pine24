@@ -1,7 +1,7 @@
 # Hello, I'm Oren
 <a href="https://www.linkedin.com/in/oren-s-930723244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am about to graduate from ITQ college with a profound interest in technology and the world of cyber security, fascinated by the field and eager to learn more and expand my horizons.
+I am an ITQ graduate with a profound interest in technology and the world of cyber security, fascinated by the field and eager to learn more and expand my horizons.
 
 ## Objective
 
@@ -15,11 +15,7 @@ My goal is to become a person that others can rely on and feel more motivated ar
 |-----------------------------------------------|----------------------------|
 |Shell Scripting                                | <a href="https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>|
 |                                               | <a href="https://github.com/Pine24/PT-project-vulnerability">Simple PT project</a>|
-|-----------------------------------------------|-------------------|
-|-----------------------------------------------|-------------------|
-| ----------------------------------------------|-------------------|
-| ----------------------------------------------|-------------------|
-| --------------------------------------------- |-------------------|
+
 
 
 ### Network
