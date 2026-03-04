@@ -3,31 +3,7 @@
 
 Splunk Professional services at _Peax DATA_
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|Shell Scripting                                | <a href="https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>|
-|                                               | <a href="https://github.com/Pine24/PT-project-vulnerability">Simple PT project</a>|
-
-
-
-``### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PacketTracer-155A9E?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>``
-
-### Endpoint
-<div>
-   <img src="https://img.shields.io/badge/-Microsoft_Sysmon-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-       <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+----------------------------------------------------------------
 
 ## Certifications
 <div>
@@ -48,7 +24,3 @@ Splunk Professional services at _Peax DATA_
 </a>
 </div>
 
-## Projects
-- <a href="https://github.com/Pine24/auth_log_monitor/tree/main">auth.log Monitoring</a>
-- <a href="https://github.com/Pine24/PT-project-vulnerability">Simple PT project</a>
-- <a>Connecting Fortigate and windows domain to Splunk SOAR and writing simple Automation playbooks</a>
