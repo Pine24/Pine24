@@ -1,6 +1,3 @@
-# Hello, I'm Oren
-<a href="https://www.linkedin.com/in/oren-s-930723244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 Splunk Professional services at _Peax DATA_
 
 ----------------------------------------------------------------
