@@ -44,7 +44,8 @@ My goal is to become a person that others can rely on and feel more motivated ar
 <a href="https://lpi.org/v/LPI000608190/rr5hh3399p" target="_blank">
     <img src="https://img.shields.io/badge/Linux%20Professional%20Institute-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Professional Institute Certification"/>
 </a>
-<a bob>
+<a href="YOUR_CERT_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk%20Enterprise%20Admin-000000?style=for-the-badge&logo=splunk&logoColor=FF69B4" alt="Splunk Enterprise Certified Admin"/>
 </a>
 </div>
 
