@@ -1,13 +1,7 @@
 # Hello, I'm Oren
 <a href="https://www.linkedin.com/in/oren-s-930723244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an ITQ graduate with a profound interest in technology and the world of cyber security, fascinated by the field and eager to learn more and expand my horizons.
-
-## Objective
-
-I am a person who is extremely motivated and eager to learn more, and as such I'm aiming to start my way in Security Operations Center (SOC) as a Tier1 Analyst and climb my way up as fast as possible, 
-while ganinig new skills and improving my understanding of this vast field.
-My goal is to become a person that others can rely on and feel more motivated around.
+Splunk Professional services at _Peax DATA_
 
 ## Skills
 
@@ -18,12 +12,12 @@ My goal is to become a person that others can rely on and feel more motivated ar
 
 
 
-### Network
+``### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-PacketTracer-155A9E?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
+</div>``
 
 ### Endpoint
 <div>
@@ -33,7 +27,6 @@ My goal is to become a person that others can rely on and feel more motivated ar
 ### SIEM
 <div>
        <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-       <img src="https://img.shields.io/badge/-QRadar-062C54?&style=for-the-badge&logo=QRadar&logoColor=white" />
 </div>
 
 ## Certifications
