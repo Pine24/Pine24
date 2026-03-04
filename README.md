@@ -47,6 +47,12 @@ My goal is to become a person that others can rely on and feel more motivated ar
 <a href="YOUR_CERT_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Splunk%20Enterprise%20Admin-000000?style=for-the-badge&logo=splunk&logoColor=FF69B4" alt="Splunk Enterprise Certified Admin"/>
 </a>
+<a href="YOUR_CERT_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk%20Power%20User-black?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Core Certified Power User"/>
+</a>
+<a href="YOUR_CERT_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk%20ES%20Admin-black?style=for-the-badge&logo=splunk&logoColor=F04E19" alt="Splunk Enterprise Security Certified Admin"/>
+</a>
 </div>
 
 ## Projects
